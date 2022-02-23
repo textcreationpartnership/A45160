@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two points of great moment, the obligation of humane laws, and the authority of the magistrate about religion, discussed together with the case which gave occasion to the first point : in opposition to the two authors, of the Friendly debate, and of the Preface to a late book of Bishop Bramhalls / by J.H.</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45160</idno>
+            <idno type="STC">Wing H3713</idno>
+            <idno type="STC">ESTC R4866</idno>
+            <idno type="EEBO-CITATION">12898024</idno>
+            <idno type="OCLC">ocm 12898024</idno>
+            <idno type="VID">95202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45160)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 384:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two points of great moment, the obligation of humane laws, and the authority of the magistrate about religion, discussed together with the case which gave occasion to the first point : in opposition to the two authors, of the Friendly debate, and of the Preface to a late book of Bishop Bramhalls / by J.H.</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>15, [1], [1, 4], 141, 135, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Imperfect: film lacks all but the first 15 pages; film also lacks two subsequent title pages: The obligation of human laws discussed, 1671, and The authority of the magistrate about religion, 1672.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patrick, Simon, 1626-1707. --  Friendly debate between a conformist and a non-conformist.</term>
+               <term>Parker, Samuel, 1640-1688. --  Preface to Bishop Bramhall's vindication of himself and the Episcopal clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95202:1"/>
+            <pb facs="tcp:95202:1" rendition="simple:additions"/>
+            <p>TWO POINTS OF GREAT MOMENT, THE Obligation of Humane Laws, AND The Authority of the Magi<g ref="char:EOLhyphen"/>ſtrate about Religion DISCUSSED.</p>
+            <p>Together, with the Caſe which gave Occaſion to the firſt Point.</p>
+            <p>In Oppoſition to the Two Au<g ref="char:EOLhyphen"/>thors, of the <hi>Friendly Debate,</hi> and of the
+<hi>Preface</hi> to a late Book of Biſhop <hi>Bramhalls.</hi>
+            </p>
+            <p>By <hi>J. H.</hi>
+            </p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <p>Printed <hi>Anno Domini,</hi> 1672.</p>
+         </div>
+         <div type="author_to_booksellers">
+            <pb facs="tcp:95202:2"/>
+            <pb facs="tcp:95202:2" rendition="simple:additions"/>
+            <head>TO THE BOOKSELLERS.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>BE not Offended, that I have Printed the late Book, <hi>A Rebuke to the Prefacer</hi> my ſelf: for it being a<g ref="char:EOLhyphen"/>gainſt one of your Licencers, none of you durſt do it. I had reſerved ſome of the former Book, <hi>The Obligation of human Laws,</hi> in Quires, for ſuch a purpoſe as this. I have Corrected them with my own hand, and Printed the ſheet called <hi>The Caſe,</hi> which was ſeized, for this end only, to be Bound up with theſe remaining Copies. I entend to give part of them to my friends, and have but <hi>Sixty</hi> or <hi>Seventy to ſell.</hi> If the Buyer gives you not your firſt price, raiſe it at next Asking: for they are not like, in all theſe Circumſtances, to get one of them again upon any Termes. The Price of theſe few muſt be to You <hi>20.</hi> 
+               <abbr>
+                  <hi>d.</hi>
+               </abbr> to the Buyer <hi>2.</hi>
+               <abbr>
+                  <hi>s.</hi>
+               </abbr>
+            </p>
+            <closer>
+               <signed>The Author.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:95202:3"/>
+            <pb n="5" facs="tcp:95202:3"/>
+            <head>The Caſe.</head>
+            <p>WHether a Non conformiſt, be<g ref="char:EOLhyphen"/>fore the KINGS DECLARATION, who hath not taken the
+<hi>Oxford</hi> Oath, might come to Live at <hi>London,</hi> or at any Corpo<g ref="char:EOLhyphen"/>rate Town, or within Five Miles of it, and yet be a good Chriſtian?</p>
+            <p>
+               <hi>How can that man be a Miniſter of Christ, who is diſobedient to his Soveraign? And that, even in thoſe things wherein Chriſt and his Laws are not concerned. The Law of the Land forbids the</hi> Noncon<g ref="char:EOLhyphen"/>formiſt <hi>to live in</hi> London, <hi>or within five miles of it: But that is not repugnant to the Command of Chriſt, and therefore he is not a good Subject, and conſequently not a good Chriſtian; much leſs ſuch a Miniſter of Chriſt as he ought to be.</hi> The Friendly De<g ref="char:EOLhyphen"/>bate between the Conformiſt and Non<g ref="char:EOLhyphen"/>conformiſt.</p>
+            <p>By this one Paſſage in that Book, I did take my Conjecture of the Author, to be a perſon happy in his Expreſſion, and in<g ref="char:EOLhyphen"/>genious in his Diſpoſition, rather then
+<pb n="6" facs="tcp:95202:4"/>deep in the Things he delivers, or ſtudi<g ref="char:EOLhyphen"/>ous and
+<hi>reflective.</hi> on thoſe more <hi>Removes</hi> than one, he ought to ſee, who will play ſuch a Game as this at once with all the Non-conformiſt Miniſters in the Nation. To bind the obſervation of all human Laws (not ſinful in the Fact) upon the Con<g ref="char:EOLhyphen"/>ſcience, without diſtinction, is the doing he knew not what. An unmerciful De<g ref="char:EOLhyphen"/>termination! which being paſſed too upon that particular <hi>Oxford</hi> Act, engaged me upon this point, as ſeeming to me the moſt material to be conſidered of any in the Book, both in regard of the loſs the moſt were at what to Anſwer, and the neceſſity of their Satisfaction: ſeeing if we act not in Faith in what we do, we ſin. The Paper, beſides ſome little more in the preamble then this, was as follows.</p>
+            <p>I am ſorry that any Perſon of ſo much candour, latitude, and ingenuity, as I be<g ref="char:EOLhyphen"/>lieve the Writer of this Book to have, ſhould be ſo unkind to his Brethren, ſo unconſcionably untender (to expreſs the thing as it is) as to account, That no man who tranſgreſſes an Act of Parliament (ſuch as for the <hi>Nonconformiſt</hi> to come within five miles of
+<hi>London</hi>) can be a good Chriſti<g ref="char:EOLhyphen"/>an. Alas! how preciſe are ſome men, as
+<pb n="7" facs="tcp:95202:4"/>to the Law of the <hi>Land,</hi> who are yet ſo angry at others for being ſtrict to the Laws of <hi>God?</hi> But does this Reverend Perſon in<g ref="char:EOLhyphen"/>deed think, that every tranſgreſſion of a Statute of the Realm is no leſs than a
+<hi>deadly ſin?</hi> Or dare he wilfully <hi>judge</hi> here, any otherwiſe than himſelf would be <hi>judged?</hi> What then if a man ſhall live and die in the breach of Many Statutes, which he knows, and yet thinks nothing of it, muſt ſuch a one be certainly damned? Or may a man live and die in a wilful known ſin, without Repentance, and be ſaved? <hi>Too rigorous were it</hi> (ſayes Mr. <hi>Hooker,</hi> that underſtood himſelf here no doubt a little better)
+<hi>that the breach of every Law ſhould be ſo held; a Mean there is between theſe extremities, if ſo be we could find it out.</hi> I muſt confeſs I have not read any, to my remembrance, that have ventured on the chalking out this <hi>Mean,</hi> that I ſhould gather ſatisfaction from it; ſo that I muſt content my ſelf with my own Sentiment, which I ſhall readily de<g ref="char:EOLhyphen"/>liver, being glad at my heart if I can un<g ref="char:EOLhyphen"/>looſe any <hi>burden,</hi> which many that are ten<g ref="char:EOLhyphen"/>der may be apt to <hi>bind</hi> on their <hi>Conſciences,</hi> when ſome that tye the ſame, would be loth to touch them with their <hi>little fingers.</hi>
+            </p>
+            <p>The Magiſtrate I account with the A<g ref="char:EOLhyphen"/>poſtles
+<pb n="8" facs="tcp:95202:5"/>Apoſtle, is the <hi>Miniſter of God</hi> for the Peo<g ref="char:EOLhyphen"/>ples <hi>good.</hi> If he command in order to that end, I think his Commands ought to be obeyed, not only for <hi>fear</hi> of his Sword, but for <hi>Conſcience ſake:</hi> But if he com<g ref="char:EOLhyphen"/>mand any thing for the Peoples hurt, or that which evidently is not for their good, I think his Command (if the matter be not ſin) is yet to be obeyed for <hi>Wrath ſake,</hi> and ſo not to be <hi>contemned;</hi> but I think not any obligation lyes on the <hi>Conſcience,</hi> if it can be avoided without contempt or ſcandal, that it ſhould be <hi>done.</hi> We muſt diſtinguiſh here between the authority that reſides in the <hi>Perſon,</hi> and the authority of this or that his <hi>particular Command.</hi> I do apprehend, that when any
+<hi>Command</hi> or Law does re<g ref="char:EOLhyphen"/>quire <hi>that,</hi> which is <hi>Morally</hi> or <hi>Civilly</hi> evil, every ſuch Command or Law, is really diveſted of authority, and ſo may be left undone without breach on a man's Conſcience; yet if a man be brought to queſtion about it, he muſt ſuffer, becauſe the authority which reſides ſtill in the <hi>Per<g ref="char:EOLhyphen"/>ſon</hi> muſt be ſubmitted to, as to the <hi>Ordi<g ref="char:EOLhyphen"/>nance of God.</hi> He muſt not <hi>reſiſt,</hi> that is expreſs; and rather than <hi>reſiſt,</hi> he muſt <hi>ſuffer;</hi> whereas if he could avoid it with<g ref="char:EOLhyphen"/>out <hi>reſiſtance,</hi> he was not bound in good
+<pb n="9" facs="tcp:95202:5"/>earneſt, either to <hi>do</hi> or
+<hi>ſuffer.</hi> Where we are not obliged <hi>ad agendum, ad patiendum</hi> ſayes <hi>Grotius, tum demum ubi poena evitari<g ref="char:EOLhyphen"/>niſi vi oppoſita non poteſt. De Imp. ſum. pot. c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rou ſac.</hi> p. 98.</p>
+            <p>The reaſon of this at the bottom, lyes here, and is firm. <hi>Power</hi> in the
+<hi>Magiſtrate,</hi> or <hi>Civil power,</hi> which is the ground of ſubjection, does not lye in <hi>might,</hi> ſtrength or force, but in <hi>right. Poteſtas</hi> (ſay Po<g ref="char:EOLhyphen"/>litical writers) is <hi>jus imperands.</hi> This <hi>right</hi> in the nature of the thing muſt ariſe from the <hi>Grant</hi> or <hi>Will</hi> of the ſupream Lord, which is God, without whoſe Will (or that Grant, or Charter, which is an act of his will) no Power can be derived to any. Now that
+<hi>grant</hi> or <hi>will</hi> of God, which conſtitutes any to Rule, or to be his
+<hi>Mi<g ref="char:EOLhyphen"/>niſter,</hi> being for the Peoples <hi>weale</hi> (He is the <hi>Miniſter of God for our weale,</hi> ſayes the text), it muſt follow, that whatſoever is not indeed for the Peoples
+<hi>weale,</hi> the Magiſtrate is not to command, becauſe it is God's will that he commands only for their <hi>weal.</hi> And if he do command any matter that is other<g ref="char:EOLhyphen"/>wiſe, that Command hath no Authority as to the <hi>Conſcience</hi> at all, as being without the warrant of God<hi>'s will.</hi> This is ſuch
+<pb n="10" facs="tcp:95202:6"/>Doctrine, which is plain, bottom'd, and irrefragable; <hi>He is the Miniſter of God for thy good, ſaith St. Paul, otherwiſe he is not God's Miniſter, and hath to other purpoſes none of God's power.</hi> Dr. <hi>Taylor</hi> in his Caſes, <hi>l.</hi> 3 <hi>p.</hi> 35. <hi>Quod neceſſariam non habet conjunctionem cum fine publici commodi non potest praecipi lege humana,</hi> ſayes <hi>Suarez</hi> from the Schools.</p>
+            <p>One difficulty onely there is, which is this: Who ſhall judge whether a Law be for the peoples
+<hi>Weal,</hi> or not? I anſwer, The Magiſtrate muſt judge as to the <hi>Making</hi> the Law, and we muſt judge as to our <hi>Obe<g ref="char:EOLhyphen"/>dience</hi> to it: My Reaſon I give as readily, Becauſe God hath made every man the Judge of his own Actions, and conſequently of all the Circumſtances, whether they are agreeable, or not agreeable to his will, for his forbearance, or doing of them: ſo that it is not according to the reſolution of any others Conſcience, but of his own, or the Judgement of <hi>Private Diſcretion,</hi> he ſhall be juſtified, or not juſtified in his walking before him. Let a Law then be promulgated wherein a man is concerned, I thus determine: If he deal uprightly, that is, as a <hi>Christian,</hi> (to uſe induſtriouſly this perſons word) and in his Conſcience
+<pb n="11" facs="tcp:95202:6"/>does judg that the Law is <hi>good,</hi> I mean good for the general (whether their ſpiritual or temporal good), I do apprehend he is obliged in Conſcience to the obeying that Law, (at leaſt ſo far as his particular obe<g ref="char:EOLhyphen"/>dience is conducive to that good) though the keeping of it otherwiſe be to his own diſadvantage or private loſs. If he judges it <hi>not good,</hi> I do ſuppoſe he may do well in prudence to be wary, and do perhaps as others do, and not run himſelf into harm's way: But really if he obſerves it not, he is to make no Conſcience of it, as if the thing offended God, whether he does it, or leaves it undone. And here is that very <hi>Mean</hi> indeed it ſelf, for ought I know, <hi>quod deſideratur.</hi> To wit, That the Laws or Commands of the Magiſtrate (even in political and indifferent things) does no leſs than <hi>bind the Conſcience,</hi> when he is the Executioner of <hi>Gods Will:</hi> But though the <hi>Outward man</hi> (out of the caſe of ſin) may be bound, if you will, the <hi>Conſcience,</hi> cannot be obliged, and ought to be ſtill kept free, when he is the Executioner only of his <hi>Own-Humane Laws</hi> (ſays the fore-mentioned excellent Doctor and Biſhop) <hi>bind the Con<g ref="char:EOLhyphen"/>ſcience of the Subjects, but yet give place to juſt and charitable Cauſes: Which are com<g ref="char:EOLhyphen"/>petent
+<pb n="12" facs="tcp:95202:7"/>and ſufficient, is not expreſly and minutely declared, but it is to be defined by the moderation and prudence of a good man.</hi>
+            </p>
+            <p>I know not how this Author may receive this, from whom I expect more ingenuity than from many others: that is, to yield to ſecond conſiderations. But methinks, if he had not thought at firſt (when he wrote) of any thing beſides, he might at leaſt have conſidered that there be Laws, which of themſelves grow out of date; and that it is not Time ſo much that brings on them their decay, as the apprehenſion of them to be unreaſonable, unfit, or unpro<g ref="char:EOLhyphen"/>fitable to the Land. When a Law therefore is by general <hi>tacit</hi> allowance, and practiſe of the Nation, had no longer in regard, it is to be accounted as <hi>virtually obſolete,</hi> and ſo it binds not. There was a Law made this Parliament about <hi>Carts</hi> &amp; <hi>Waggons,</hi> for the better keeping the <hi>High-wayes;</hi> which being found quickly inconvenient to the
+<hi>Waggo<g ref="char:EOLhyphen"/>ners,</hi> &amp; unanſwerable we may ſuppoſe to the <hi>End,</hi> it was ſcarce a Month or two, but they heard no more of it. I will put a Caſe now of Conſcience to this Perſon, Suppoſe a man whoſe living conſiſts in his Waggon, and unleſs he puts more Horſes in his Team, in his coming up to <hi>London,</hi> than this Law
+<pb n="13" facs="tcp:95202:7"/>will allow, he muſt give off his Trade, or be undone. I ask, What ſhall this fellow do? By the Doctrine of this Book, for ought I can ſee, he can be <hi>no good Subject, and conſequently no good Chriſtian,</hi> if he goes on. I will ask again. What thinks the Author of thoſe that die and are <hi>buried</hi> in the <hi>iniquity</hi> of <hi>Linnen?</hi> Whether the Wo<g ref="char:EOLhyphen"/>men generally of this Nation who cannot abide to have the
+<hi>dead</hi> wrapt in <hi>Flannel</hi> (but being uſed ſo much to controul their <hi>Husbands at home,</hi> will not be ruled by <hi>both Houſes,</hi> to do any otherwiſe herein than what they think is <hi>handſomeſt</hi> for all them), are in capacity, without their amendment in this point, to be ſaved? For my own part, I think verily the latter of theſe Laws being intended, and tending directly to the particular good of the Nation, it ought in Conſcience to have been kept: yet ſeeing the very <hi>humour</hi> only of the Women hath diſ<g ref="char:EOLhyphen"/>countenanc'd it, ſo that in the general uſage it is annull'd, I dare not ſay that any man does ſin, that obſerves it not. I dare not ſay, that <hi>Wife</hi> can be <hi>no good Chriſtians</hi> that buries here <hi>Husband</hi> in his <hi>ſhirt.</hi>
+            </p>
+            <p>As for the Act it ſelf of <hi>Oxford,</hi> I cannot paſs methinks, without the obſervation of God's providence, toward that great
+<pb n="14" facs="tcp:95202:8"/>Perſon, who in his Speech that Seſſion, ſo induſtriouſly declared himſelf the Deſign<g ref="char:EOLhyphen"/>er: <hi>Since the Parliament at</hi> Oxford,
+<hi>it hath been viſible</hi> (ſayes he) <hi>that my credit hath been very little.</hi> He who had contri<g ref="char:EOLhyphen"/>ved the Baniſhment of others from <hi>their houſes</hi> by that Act, leaves this paſſage in his Letter, at his own <hi>departure</hi> out of the <hi>Realm.</hi>
+            </p>
+            <p>For the Oath impoſed, as the condition of the <hi>Nonconformiſts</hi> lawful coming to this City, or any other Corporation, by that <hi>Oxford</hi> Act, there are the
+<hi>Nonconformiſts</hi> Exceptions againſt it propoſed in that Book entituled, <hi>A Defence of the Propoſition.</hi> If the Author of this <hi>Debate,</hi> or that in<g ref="char:EOLhyphen"/>genious Perſon, who (they ſay) is writ<g ref="char:EOLhyphen"/>ing ſomething about <hi>Eccleſiaſtical Polity,</hi> for the juſtifying preſent Impoſitions; or that worthy Perſon his aſſociate, who is particularly engaged to it, can Anſwer them, let them try. This I muſt ſay, that I ſuppoſe the chief of thoſe things which ſtick in good earneſt upon the ſober <hi>Non<g ref="char:EOLhyphen"/>conformiſt,</hi> and which others do not, or dare not ſpeak out, are there offered, a<g ref="char:EOLhyphen"/>gainſt that <hi>Oath,</hi> and againſt
+<hi>
+                  <g ref="char:V">Ʋ</g>niformity.</hi> If they ſhall ſet down the words fairly and candidly, and anſwer them ſatisfactorily,
+<pb n="15" facs="tcp:95202:8"/>they ſhall do well: But if they <hi>do not</hi> (after this notice) the world ſhall account indeed they <hi>cannot,</hi> and what they ſay o<g ref="char:EOLhyphen"/>therwiſe, muſt ſignifie nothing. I will conclude with <hi>Grotius,</hi> and return to my Theme. <hi>Leges humanae vim obligandi tum demum habent, ſi latae ſint ad humanum mo<g ref="char:EOLhyphen"/>dum, non ſi on us injungant quod a ratione &amp; natura plane abhorreat.</hi>
+            </p>
+            <p>If you ask at laſt, How this Sheet comes out thus alone without others againſt this
+<hi>Debate</hi> with it? I muſt ſay, What ſhall a man do, when the Preſs is become ſo like the Hedge-hog's Den, that when they have one door open ſtill for themſelves, they will be ſure to ſtop the other, where the leaſt wind can but come in to blow upon them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <head>☞ This ſhould be put at the end of the enſuing Book.</head>
+            <p>THe Office <hi>(to wit, of the Magiſtrate):</hi> and exerciſe or adminiſtration being di<g ref="char:EOLhyphen"/>ſtinguiſhed, you truly ſay, that he that is not bound in a particular caſe
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obey, yet may be a Subject ſtill (which is the relation of one bound to ordinary obedience); and Rebellion which is the caſting off this ſubjection, is forbiden notwithſtanding a particular law may be diſobeyed.</p>
+            <p>A Law made againſt God or the ſafety of the Common-wealth, is no Law <hi>in ſenſu univoco,</hi> but it is <hi>in ſenſu aequivoco vel analogico,</hi> and does not properly bind the Subject.</p>
+            <p>All men in their wits (that are maſters of ſuch diſcourſe) are agreed that, <hi>Judicium eſt vel publicum vel privatum. Publicum eſt vel Civile, Magiſtratus, per gladium exequendum: Vel Eccleſiaſticum, Paſtorum, per verbum &amp; claves exequendum. Et privatum diſcretionis, eſt omnium.</hi> No Man ever obeyed without it, for <hi>authoritas impe<g ref="char:EOLhyphen"/>rantis agnita,</hi> is the <hi>objectum formale obe<g ref="char:EOLhyphen"/>dientiae,</hi> and anſwereth the queſtion, <hi>Quare obedis?</hi>
+            </p>
+            <p>The Magiſtrate being by Office intruſted with the <hi>bonum publicum,</hi> the Subject is not called to try every one of his Laws, whether they are ſuited to the <hi>bonum publicum</hi> or not, much leſs to be critical and buſie out of his place.</p>
+            <p>But being not bound to be blind or careleſs in a notorious caſe, or ſuch of which he hath full and lawful cognizance, he may and muſt diſcern what commmand is againſt the com<g ref="char:EOLhyphen"/>mon good.</p>
+            <closer>
+               <signed>Richard Baxter.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
